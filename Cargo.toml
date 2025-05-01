@@ -1,6 +1,7 @@
 [package]
 name = "lox-seizure"
 version = "0.1.0"
+authors = ["meaningbread15 <bshuchitava109@gmail.com>"]
 edition = "2024"
 
 [dependencies]
