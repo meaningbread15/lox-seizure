@@ -12,3 +12,6 @@ I would like to say this is still day - 1 but I got mixed up a little in differe
 So, today as of yet I have put in my Interpreter Framework doing it from jlox first of course. I still don't understand a lot of things which probably shows, but in any case I will keep going.
 
 As to what the file does as of yet, is well.. there is no interpreter but at least if it tries its best to run a binary of a script written in lox.
+
+### Day - 3
+Hello there this is me from day 3 as you can see (that's a rhyme). So, I realised I am still pretty bad at rust so I am gonna take a few days, cover the rust book and see how far I go before coming back to it. I will return, and that will the Day - 4.
